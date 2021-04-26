@@ -1,8 +1,11 @@
 # ClickbaitDetection
 An attempt on the Clickbait Detection Challenge by Webis by making use of Glove word embeddings for clickbait prediction
 
-# Clickbait_Detection
+# Clickbait_Detection Dataset
 https://zenodo.org/record/3346491/files/clickbait17-train-170630.zip?download=1
+
+# Glove Embeddings 
+http://nlp.stanford.edu/data/glove.twitter.27B.zip
 
 1. Clone the repository into a directory of your choice
 2. `cd ClickbaitDetection` 
